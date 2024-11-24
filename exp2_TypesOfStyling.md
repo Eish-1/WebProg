@@ -110,7 +110,6 @@ width: 80%;
 margin: 0 auto 20px;
 }
 
-/_ Subheadings _/
 h3 {
 color: #d90429;
 font-size: 24px;
@@ -122,13 +121,9 @@ color: #edf2f4;
 font-size: 18px;
 }
 
-/_ List items Styles _/
-
 li {
 margin-bottom: 8px;
 }
-
-/_ hover styling _/
 
 li:hover {
 color: #8d99ae;
